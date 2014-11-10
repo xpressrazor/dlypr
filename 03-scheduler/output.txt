@@ -1,0 +1,86 @@
+    Your Schedule
+    ==============
+
+    Schedule for 11-06-2014
+    From 05:18 AM to 06:00 AM -- code review
+    From 06:16 AM to 07:32 AM -- food
+    From 07:51 AM to 08:25 AM -- personal appointment
+    From 08:53 AM to 09:55 AM -- workout
+    From 10:32 AM to 11:22 AM -- sales call
+    From 11:29 AM to 12:18 PM -- code review
+    From 12:18 PM to 01:30 PM -- redditing
+    From 01:30 PM to 01:59 PM -- sales call
+    From 02:47 PM to 03:23 PM -- work
+    From 04:22 PM to 05:05 PM -- code review
+    From 05:54 PM to 06:17 PM -- personal appointment
+
+    Schedule for 11-07-2014
+    From 05:38 AM to 06:49 AM -- meeting
+    From 07:29 AM to 08:22 AM -- food
+    From 08:24 AM to 09:23 AM -- personal appointment
+    From 09:35 AM to 10:35 AM -- workout
+    From 11:04 AM to 12:07 PM -- code review
+    From 12:07 PM to 01:07 PM -- redditing
+    From 01:07 PM to 02:14 PM -- meeting
+    From 02:34 PM to 03:06 PM -- work
+    From 03:28 PM to 04:06 PM -- code review
+
+    Schedule for 11-08-2014
+    From 05:13 AM to 06:05 AM -- food
+    From 06:49 AM to 07:34 AM -- work
+    From 07:57 AM to 09:08 AM -- meeting
+    From 09:34 AM to 10:53 AM -- meeting
+    From 11:28 AM to 12:44 PM -- meeting
+    From 01:39 PM to 02:06 PM -- food
+    From 02:44 PM to 03:35 PM -- meeting
+    From 03:35 PM to 04:33 PM -- redditing
+    From 04:33 PM to 05:12 PM -- meeting
+    From 05:30 PM to 06:36 PM -- personal appointment
+    From 07:00 PM to 08:05 PM -- meeting
+
+    Schedule for 11-09-2014
+    From 05:13 AM to 06:25 AM -- workout
+    From 06:03 AM to 06:26 AM -- code review
+    From 06:26 AM to 07:12 AM -- redditing
+    From 07:12 AM to 08:06 AM -- meeting
+    From 08:52 AM to 09:15 AM -- food
+    From 09:49 AM to 10:09 AM -- meeting
+    From 10:05 AM to 11:15 AM -- code review
+    From 11:56 AM to 12:17 PM -- work
+    From 12:27 PM to 01:29 PM -- sales call
+    From 02:14 PM to 03:15 PM -- code review
+    From 03:27 PM to 04:39 PM -- food
+
+    Schedule for 11-10-2014
+    From 05:44 AM to 06:30 AM -- personal appointment
+    From 06:54 AM to 07:41 AM -- code review
+    From 08:29 AM to 09:23 AM -- code review
+    From 10:08 AM to 11:14 AM -- workout
+    From 11:09 AM to 11:35 AM -- sales call
+    From 12:20 PM to 01:17 PM -- personal appointment
+    From 01:38 PM to 02:10 PM -- workout
+    From 02:10 PM to 03:08 PM -- redditing
+    From 03:08 PM to 03:29 PM -- code review
+
+    Schedule for 11-11-2014
+    From 05:03 AM to 06:12 AM -- food
+    From 06:12 AM to 07:14 AM -- redditing
+    From 07:14 AM to 08:32 AM -- meeting
+    From 08:04 AM to 08:45 AM -- work
+    From 09:21 AM to 10:37 AM -- food
+    From 11:22 AM to 12:10 PM -- code review
+    From 12:36 PM to 01:30 PM -- meeting
+    From 02:05 PM to 02:49 PM -- meeting
+    From 03:03 PM to 03:40 PM -- food
+    From 04:04 PM to 04:40 PM -- food
+    From 05:02 PM to 06:09 PM -- work
+
+    Total time spent - 3191 minutes
+    personal appointment - 285 minutes - 8.9%
+    workout - 292 minutes - 9.2%
+    redditing - 356 minutes - 11.2%
+    work - 242 minutes - 7.6%
+    code review - 559 minutes - 17.5%
+    sales call - 167 minutes - 5.2%
+    meeting - 769 minutes - 24.1%
+    food - 521 minutes - 16.3%
