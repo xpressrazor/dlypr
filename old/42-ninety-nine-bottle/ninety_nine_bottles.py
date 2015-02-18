@@ -2,18 +2,15 @@ numbermap = {0:"zero", 1:"one", 2:"two", 3:"three", 4:"four", 5:"five", 6:"six",
 
 def numbertoword(num):
     numword = ''
-    if num < 21 and num > -1:
-        numword = numbermap[num];
-    elif num < 100 and num > 20:
+    if num > -1 and num < 100:
         try:
             numword = numbermap[num]
         except KeyError:
             ones = num % 10
             tens = (num // 10) * 10
             numword = "{0} {1}".format(numbermap[tens], numbermap[ones])
-    else:
-        numword = "Not a valid number"
-        
+    else: numword = 'Not a valid number'
+            
     return numword
 
 
