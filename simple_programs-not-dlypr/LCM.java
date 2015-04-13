@@ -14,8 +14,12 @@
 import java.util.*;
 
 public class LCM {
-
-	private static ArrayList<Integer> multiple(int x) {
+    
+    public Multiplication multiplication;
+    
+    public LCM(Multiplication multiplication) { this.multiplication = multiplication; }
+    
+	private ArrayList<Integer> multiple(int x) {
 		ArrayList<Integer> multipleNumbers = new ArrayList<Integer>();
 
 		// Not checking anything below 2, could be error
@@ -41,23 +45,8 @@ public class LCM {
 		return multipleNumbers;
 	}
 
-	private static int multiply(List<Integer> list) {
-		if (list.isEmpty())
-			return 1;
-		else
-			return (list.get(0) * multiply(list.subList(1, list.size())));
-	}
 
-	private static int multiplywithoutrecursion(List<Integer> list) {
-		int product = 1;
-		for (Integer number : list) {
-			product *= number;
-		}
-
-		return product;
-	}
-
-	private static int lcm(int number1, int number2) {
+	public int lcm(int number1, int number2) {
 		ArrayList<Integer> multiples1 = multiple(number1);
 		ArrayList<Integer> multiples2 = multiple(number2);
 
@@ -71,17 +60,6 @@ public class LCM {
 		ArrayList<Integer> multiplesUnion = (ArrayList<Integer>) multiples1.clone();
 		
 		multiplesUnion.addAll(multiples2);
-		return multiply(multiplesUnion);
-	}
-
-
-	public static void printlcm(int number1, int number2) {
-		System.out.println("LCM of " + number1 + " " + number2 + " is " + lcm(number1, number2));
-	}
-	
-    public static void main(String[] args) {
-		printlcm(3, 4);
-		printlcm(30, 45);
-		printlcm(4, 12);
-    }
+		return multiplication.multiply(multiplesUnion);
+	}	
 }
