@@ -1,6 +1,8 @@
 /**
  * [2016-02-22] Challenge #255 [Easy] Playing with light switches
  * https://www.reddit.com/r/dailyprogrammer/comments/46zm8m/20160222_challenge_255_easy_playing_with_light/
+ * Usage: $time java SwitchesTest < lots_of_switches.txt
+ * Link: https://raw.githubusercontent.com/fsufitch/dailyprogrammer/master/ideas/switches/lots_of_switches.txt
  */ 
 import java.util.Scanner;
 
