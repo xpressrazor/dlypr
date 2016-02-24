@@ -1,0 +1,14 @@
+1. N = read_number_of_switches
+2. while (scanner.hasNext()):
+    end1 = scanner.nextInt()
+    end2 = scanner.nextInt()
+
+    start = max(end1, end2);
+    end = min(end1, end2);
+
+    // toggle_switches(arr, start, end)
+    for (int i = start, i <= end; i++) {
+        arr[i] = arr[i] == 0 ? 1 : 0;
+    }
+
+    print_count(arr)
